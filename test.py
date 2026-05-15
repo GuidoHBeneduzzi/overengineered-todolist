@@ -1,1 +1,1 @@
-print e #fail
+print("correct syntax")

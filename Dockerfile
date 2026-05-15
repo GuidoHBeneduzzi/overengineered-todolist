@@ -17,4 +17,4 @@ COPY . .
 
 USER 1000
 
-CMD ["python", "main.py"]
+CMD ["python", "test.py"]
